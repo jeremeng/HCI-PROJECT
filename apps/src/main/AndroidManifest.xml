@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hci.project">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/work"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name="com.hci.project.SplashIntro">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.hci.project.AboutActivity"/>
+        <activity
+            android:name="com.hci.project.RegisterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.hci.project.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.hci.project.MainActivity"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="32dp"
+    android:paddingTop="32dp"
+    android:background="@drawable/gra_white"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="40dp"
+        android:layout_height="42dp"
+        android:layout_marginLeft="15dp"
+        android:src="@mipmap/work" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="16dp"
+        android:orientation="vertical">
+
+        <com.pixplicity.fontview.FontAppCompatTextView
+            style="@style/FontTextViewStyle"
+            android:layout_width="wrap_content"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="Workout Helper" />
+
+        <com.pixplicity.fontview.FontAppCompatTextView
+            android:id="@+id/fontAppCompatTextView"
+            style="@style/FontTextViewStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="easy way to increase muscle mass"
+            android:textColor="#767676"
+            android:textSize="10dp" />
+
+        <com.pixplicity.fontview.FontAppCompatTextView
+            android:id="@+id/textView"
+            style="@style/FontTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="asdasdsa"
+            android:textColor="#767676"
+            android:textSize="10dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

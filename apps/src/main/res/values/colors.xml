@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#c6c6c6</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="menu_background">#119c4b</color>
+    <color name="background">#ececec</color>
+    <color name="colorBackground">#413e4f</color>
+    <color name="colorTimerPrimary">#3F51B5</color>
+    <color name="colorTimerPrimaryDark">#303F9F</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextHint">#51d8c7</color>
+
+</resources>

@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Workout Helper</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- About tab -->
+    <string name="about_developers_label">Main developers</string>
+    <string name="about_translator_label">Translator</string>
+    <string name="changelog">Changelog</string>
+    <string name="translator"></string>
+    <string name="about_version_label">Version</string>
+    <string name="about_source_label">Source code</string>
+    <string name="about_libraries_label">Used libraries</string>
+
+    <!-- Navigation -->
+    <string name="nav_geometry">Geometry</string>
+    <string name="nav_about">About</string>
+    <string name="nav_reward">Material Design </string>
+    <string name="nav_bank">Nearest Bank</string>
+    <string name="nav_tips">Recycler Tips</string>
+
+
+    <string name="details">Details</string>
+    <string name="version_app">1.0.0</string>
+    <string name="tips">
+        If you want to add a custom workout to the application , follow this simple step ro create your own workout.\n
+        1st Step on the home screen application , theres a 3 dot located at the top left of the application\n
+        2nd Step after that It will show a menu selection , after that click Add WorkOut.\n
+        3rd Name your Workout Name , Repetition and Rest Time.\n
+        Example :\n
+        Workout Name : Push Up\n
+        Workout Time : 10 mite \n
+        Repetition : 50 times Push Up\n
+        Rest Time : 30 Second
+    </string>
+    <string name="tips2">
+        Creating account is easy with these you can easily make an account to help your workout , With these easy step.\n
+        1st Open your application\n
+        2nd Below the “Login” Button there’s a text “No account yet?Create one !” , click that text\n
+        3rd After that input your Email address and your desire password.\n
+        The Email and the password that you input in the application will be available right away , to login to the application.
+    </string>
+    <string name="tips3">
+        If you want to see your own workout that you have added to the application , just follow this simple step and you will be able to see the List of your workouts.\n
+        1st Step on the home screen application , theres a 3 dot located at the top left of the application\n
+        2nd Step after that It will show a menu selection , after that click Workout List.\n
+        It will direct you to the list of the workout that you have added to the application.
+    </string>
+    <string name="tips4">
+        Contact us at this Email : workouthelper@gmail.com , our staff will help you immediately.
+    </string>
+    <string name="layout">Layout</string>
+    <string name="deskripsi">A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over a hundred species and thousands of cultivars. They form a group of plants that can be erect shrubs.</string>
+    <string name="nav_home">Home</string>
+
+    <string name="aboutme">UX / UI Mobile Application\nFront-End Android Developer</string>
+
+    <string name="about_one">This is a demo app for Linear Timer.</string>
+    <string name="about_two">Linear Timer is a custom view library for Android that creates circular
+        progress animation with respect to a given duration. </string>
+    <string name="about_three">Know more about Linear Timer on Github; Click here.</string>
+
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Android Tutorials Hub</string>
+</resources>
