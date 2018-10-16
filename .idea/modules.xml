@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HCI-PROJECT.iml" filepath="$PROJECT_DIR$/HCI-PROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/apps.iml" filepath="$PROJECT_DIR$/apps/apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lineartimer/lineartimer.iml" filepath="$PROJECT_DIR$/lineartimer/lineartimer.iml" />
+    </modules>
+  </component>
+</project>
